@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "Name": "Rakzhana K",
+    "course": "B.Tech CSBS",
+    "Roll": "24UGxxxxxxx",
+    "Duration": "2024-2028",
+    "Reg": "7107xxxxxxx"
+  },
+  {
+    "id": 2,
+    "Name": "Raghu K R",
+    "course": "B.Tech CSBS",
+    "Roll": "24UGxxxxxxxxxx",
+    "Duration": "2024-2028",
+    "Reg": "7107xxxxxxx"
+  },
+  {
+    "id": 3,
+    "Name": "Bhanu K",
+    "course": "B.Com A&T",
+    "Roll": "24UGxxxxxxxxx",
+    "Duration": "2019-2021",
+    "Reg": "7107xxxxxxxx"
+  },
+  {
+    "id": 4,
+    "Name": "Janani B",
+    "course": "B.Tech CSBS",
+    "Roll": "24UGxxxxxxxx",
+    "Duration": "2024-2028",
+    "Reg": "7107xxxxxx"
+  }
+]
